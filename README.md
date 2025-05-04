@@ -48,3 +48,4 @@ Issue Submission: Create an issue with your report link (Markdown, PDF, Notion, 
 打开一个 Issue 提交你的内容链接，我会审核并整理入库。
 
 这里有一些报告来自howie,他的Youtobe频道是howie和小能熊，是我非常喜欢的一位博主 感谢他免费分享的深度研究报告，这里给出来源网址https://gpt.candobear.com/courses/kv2510-openai-deep-research
+当前AI技术发展对普通程序员的影响及全球市场环境分析  这篇报告来自网络，有点忘了从哪来的了
