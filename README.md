@@ -12,7 +12,7 @@ High-quality prompts + structured outputs
 
 Reports are continuously updated
 
-涉及多个主题的 AI 深度研究报告（如人工智能、金融、心理、教育、政治等）
+涉及多个主题的 AI 深度研究报告（如人工智能、金融、心理、教育、个人成长与思考等）
 
 高质量提示词与结构化输出结果
 
