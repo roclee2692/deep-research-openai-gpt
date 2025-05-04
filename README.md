@@ -47,7 +47,23 @@ Issue Submission: Create an issue with your report link (Markdown, PDF, Notion, 
 
 打开一个 Issue 提交你的内容链接，我会审核并整理入库。
 
-这里有一些报告来自howie,他的Youtobe频道是howie和小能熊，是我非常喜欢的一位博主 感谢他免费分享的深度研究报告，这里给出来源网址https://gpt.candobear.com/courses/kv2510-openai-deep-research
+
+### 🙏 鸣谢来源 | Attribution & Acknowledgement
+
+本仓库中的部分深度研究报告来自于 YouTube 内容创作者 **Howie 和小能熊** 的公开分享。  
+感谢 Howie 免费开放他的高质量研究成果，极大地启发了本项目的内容结构与研究路径。
+
+🧭 原始来源链接：https://gpt.candobear.com/courses/kv2510-openai-deep-research  
+📺 相关频道：YouTube @Howie和小能熊
+
+
+Some of the deep research reports in this repository are adapted from the public research content shared by YouTube creator **Howie & Candobear**.  
+We sincerely thank Howie for generously providing free access to such high-quality research resources, which have inspired the structure and approach of this project.
+
+🧭 Original Source: https://gpt.candobear.com/courses/kv2510-openai-deep-research  
+📺 Related Channel: YouTube @Howie和小能熊
+
+
 ### 📄 关于《当前AI技术发展对普通程序员的影响及全球市场环境分析》报告  
 > 📝 本报告内容来自互联网开源资料，初始来源已无法准确追溯。上传目的仅为学习交流与归档整理，如原作者介意，请联系我删除，谢谢理解。
 
