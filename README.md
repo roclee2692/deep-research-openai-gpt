@@ -1,4 +1,4 @@
-# -Deep-Research-by-OpenAI-ChatGPT-
+# Deep-Research-by-OpenAI-ChatGPT  UNIQUE_TAG_7gf2k  mark
 📘 Deep Research by OpenAI GPT | 深度研究开源报告合集
 
 Welcome! This is an open collection of AI-generated Deep Research reports using OpenAI GPT's advanced research capabilities. All reports are freely available for learning, reference, or further discussion.
@@ -48,4 +48,9 @@ Issue Submission: Create an issue with your report link (Markdown, PDF, Notion, 
 打开一个 Issue 提交你的内容链接，我会审核并整理入库。
 
 这里有一些报告来自howie,他的Youtobe频道是howie和小能熊，是我非常喜欢的一位博主 感谢他免费分享的深度研究报告，这里给出来源网址https://gpt.candobear.com/courses/kv2510-openai-deep-research
-当前AI技术发展对普通程序员的影响及全球市场环境分析  这篇报告来自网络，有点忘了从哪来的了
+### 📄 关于《当前AI技术发展对普通程序员的影响及全球市场环境分析》报告  
+> 📝 本报告内容来自互联网开源资料，初始来源已无法准确追溯。上传目的仅为学习交流与归档整理，如原作者介意，请联系我删除，谢谢理解。
+
+This report, titled *“The Impact of Current AI Developments on Ordinary Programmers and the Global Market Environment”*, was sourced from open materials on the internet. The original source has unfortunately been lost and cannot be verified.  
+It is uploaded here solely for the purpose of study, academic sharing, and archival.  
+If you are the original author and wish for the content to be removed, please contact me and I will take it down. Thank you for your understanding.
