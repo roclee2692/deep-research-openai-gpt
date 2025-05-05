@@ -1,4 +1,3 @@
-# Deep-Research-by-OpenAI-ChatGPT  UNIQUE_TAG_7gf2k  mark
 📘 Deep Research by OpenAI GPT | 深度研究开源报告合集
 
 Welcome! This is an open collection of AI-generated Deep Research reports using OpenAI GPT's advanced research capabilities. All reports are freely available for learning, reference, or further discussion.
