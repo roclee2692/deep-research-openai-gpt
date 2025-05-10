@@ -69,3 +69,11 @@ We sincerely thank Howie for generously providing free access to such high-quali
 This report, titled *“The Impact of Current AI Developments on Ordinary Programmers and the Global Market Environment”*, was sourced from open materials on the internet. The original source has unfortunately been lost and cannot be verified.  
 It is uploaded here solely for the purpose of study, academic sharing, and archival.  
 If you are the original author and wish for the content to be removed, please contact me and I will take it down. Thank you for your understanding.
+
+本作品采用“署名-非商业性使用-相同方式共享 4.0 国际协议”（CC BY-NC-SA 4.0）授权。  
+欢迎在非商业场景中自由分享和修改，但请保留作者署名并注明原始仓库链接。  
+协议全文：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).  
+You may share and adapt it for non-commercial purposes, but please credit the author and link back to the original repository.  
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
