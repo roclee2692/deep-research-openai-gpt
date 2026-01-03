@@ -2,20 +2,29 @@
 
 Welcome! This is an open collection of AI-generated Deep Research reports using OpenAI GPT's advanced research capabilities. All reports are freely available for learning, reference, or further discussion.
 
-欢迎！这是一个基于 OpenAI GPT 深度研究能力生成的 研究报告开源合集，所有内容完全免费公开，欢迎用于学习参考、资料拓展与交流讨论。
+欢迎！这是一个基于 OpenAI GPT 深度研究能力生成的研究报告开源合集，所有内容完全免费公开，欢迎用于学习参考、资料拓展与交流讨论。
 
-🔍 What’s Inside? / 项目内容
-AI-generated deep research reports on diverse topics (AI, finance, psychology, education, politics, etc.)
+## 📂 文件组织结构 | Repository Structure
 
-High-quality prompts + structured outputs
+所有研究报告已按主题分类整理到 `docs/` 目录下：
 
-Reports are continuously updated
+```
+docs/
+├── 01-教育与学习/        # 英语学习、学术研究、竞赛指南等
+├── 02-职业与发展/        # AI时代职业规划、技能跃迁等
+├── 03-投资与理财/        # 股市投资、财富系统、金融知识等
+├── 04-心理学与哲学/      # 心理学理论、思维模型、人生哲学等
+├── 05-AI与技术/          # 人工智能、技术趋势、科技发展等
+├── 06-社会研究/          # 社会现象、文化变迁、人口问题等
+├── 07-个人成长/          # 认知系统、学习方法、自我提升等
+└── 08-全球分析/          # 国际对比、经济政治环境分析等
+```
 
-涉及多个主题的 AI 深度研究报告（如人工智能、金融、心理、教育、个人成长与思考等）
-
-高质量提示词与结构化输出结果
-
-报告内容将持续更新
+🔍 What's Inside? / 项目内容
+- AI生成的多主题深度研究报告（涵盖80+份研究文档）
+- 系统化的分类整理，便于查找和学习
+- 高质量提示词与结构化输出结果
+- 报告内容持续更新中
 
 🌱 Open Source Spirit / 开源精神
 All contents are released under an open license. Feel free to use, cite, or even contribute your own reports or prompts!
@@ -26,25 +35,16 @@ All contents are released under an open license. Feel free to use, cite, or even
 Feel free to open an issue or pull request for collaboration or suggestions.
 如有任何建议或合作意向，欢迎通过 issue 或 PR 联系。
 
-🧩 Contribute Your Research Reports!
-
-If you’ve used OpenAI's Deep Research features to produce high-quality reports, feel free to share them here.
-
-Two contribution methods:
-
-Pull Request (recommended): Add your report to the /reports/ folder with a short description.
-
-Issue Submission: Create an issue with your report link (Markdown, PDF, Notion, etc.), and I will review and add it.
-
-🧩 欢迎贡献你的研究报告！
+## 🧩 欢迎贡献你的研究报告！ | Contribute Your Research Reports!
 
 如果你也使用 OpenAI 的 Deep Research 工具进行过高质量研究，欢迎你分享内容到本仓库。
 
-两种方式供你选择：
+If you've used OpenAI's Deep Research features to produce high-quality reports, feel free to share them here.
 
-提交 Pull Request（推荐）：将你的报告文件添加到 /reports/ 目录，并附带说明文档；
+### 贡献方式 | Contribution Methods:
 
-打开一个 Issue 提交你的内容链接，我会审核并整理入库。
+1. **Pull Request（推荐）**: 将你的报告文件添加到相应的 `docs/` 分类目录，并附带说明
+2. **Issue 提交**: 创建 issue 并附上你的报告链接（Markdown、PDF、Notion等格式），我会审核并整理入库
 
 
 ### 🙏 鸣谢来源 | Attribution & Acknowledgement
