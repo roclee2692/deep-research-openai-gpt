@@ -1,23 +1,23 @@
-📘 Deep Research by OpenAI GPT | 深度研究开源报告合集
+📘 Deep Research by ChatGPT & Google Gemini | 深度研究开源报告合集
 
-Welcome! This is an open collection of AI-generated Deep Research reports using OpenAI GPT's advanced research capabilities. All reports are freely available for learning, reference, or further discussion.
+Welcome! This is an open collection of AI-generated Deep Research reports using ChatGPT and Google Gemini 3 Pro's advanced research capabilities. All reports are freely available for learning, reference, or further discussion.
 
-欢迎！这是一个基于 OpenAI GPT 深度研究能力生成的研究报告开源合集，所有内容完全免费公开，欢迎用于学习参考、资料拓展与交流讨论。
+欢迎！这是一个基于 ChatGPT 及 Google Gemini 3 Pro 深度研究能力生成的研究报告开源合集，所有内容完全免费公开，欢迎用于学习参考、资料拓展与交流讨论。
 
 ## 📂 文件组织结构 | Repository Structure
 
-所有研究报告已按主题分类整理到 `docs/` 目录下：
+所有研究报告已按主题分类整理到 `分类报告-Categorized-Reports/` 目录下：
 
 ```
-docs/
-├── 01-教育与学习/        # 英语学习、学术研究、竞赛指南等
-├── 02-职业与发展/        # AI时代职业规划、技能跃迁等
-├── 03-投资与理财/        # 股市投资、财富系统、金融知识等
-├── 04-心理学与哲学/      # 心理学理论、思维模型、人生哲学等
-├── 05-AI与技术/          # 人工智能、技术趋势、科技发展等
-├── 06-社会研究/          # 社会现象、文化变迁、人口问题等
-├── 07-个人成长/          # 认知系统、学习方法、自我提升等
-└── 08-全球分析/          # 国际对比、经济政治环境分析等
+分类报告-Categorized-Reports/
+├── 01-教育与学习-Education-Learning/        # 英语学习、学术研究、竞赛指南等
+├── 02-职业与发展-Career-Development/        # AI时代职业规划、技能跃迁等
+├── 03-投资与理财-Investment-Finance/        # 股市投资、财富系统、金融知识等
+├── 04-心理学与哲学-Psychology-Philosophy/   # 心理学理论、思维模型、人生哲学等
+├── 05-AI与技术-AI-Technology/               # 人工智能、技术趋势、科技发展等
+├── 06-社会研究-Social-Research/             # 社会现象、文化变迁、人口问题等
+├── 07-个人成长-Personal-Growth/             # 认知系统、学习方法、自我提升等
+└── 08-全球分析-Global-Analysis/             # 国际对比、经济政治环境分析等
 ```
 
 🔍 What's Inside? / 项目内容
@@ -37,13 +37,13 @@ Feel free to open an issue or pull request for collaboration or suggestions.
 
 ## 🧩 欢迎贡献你的研究报告！ | Contribute Your Research Reports!
 
-如果你也使用 OpenAI 的 Deep Research 工具进行过高质量研究，欢迎你分享内容到本仓库。
+如果你也使用 ChatGPT 或 Google Gemini 3 Pro 的 Deep Research 工具进行过高质量研究，欢迎你分享内容到本仓库。
 
-If you've used OpenAI's Deep Research features to produce high-quality reports, feel free to share them here.
+If you've used ChatGPT or Google Gemini 3 Pro's Deep Research features to produce high-quality reports, feel free to share them here.
 
 ### 贡献方式 | Contribution Methods:
 
-1. **Pull Request（推荐）**: 将你的报告文件添加到相应的 `docs/` 分类目录，并附带说明
+1. **Pull Request（推荐）**: 将你的报告文件添加到相应的 `分类报告-Categorized-Reports/` 分类目录，并附带说明
 2. **Issue 提交**: 创建 issue 并附上你的报告链接（Markdown、PDF、Notion等格式），我会审核并整理入库
 
 
